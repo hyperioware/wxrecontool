@@ -1,5 +1,6 @@
 {
   "name": "Wx Recon Tool",
+  "author": "MSgt Michael Rudd",
   "version": "1.0",
   "manifest_version": 2,
   "description": "A Microsoft Edge extension that interacts with AFW WEBS to retrieve and display data, as well as alert the user to various criteria being met, to minimize the browser resources dedicated to typical METWATCH functions.",
