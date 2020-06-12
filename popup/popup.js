@@ -1,12 +1,12 @@
 class Product{
   name = "";
+  type = "";
   units = {temperature: "F", speed: "KT", distance: "M"};
   validTime = "";
   baseUrl = "https://weather.af.mil/services/";
 }
 
 class Graphic extends Product{
-  type = "";
   parameters = {
     "northBound": 0,
     "southBound": 0,
